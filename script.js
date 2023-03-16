@@ -247,3 +247,5 @@ const navigateAndSelectProduct = (key) => {
 
   }
 }
+
+console.log("C2-this is my second commit")
